@@ -1,15 +1,15 @@
-#header{
+.wufoo .info{
   display: none;
 }
 
-input[type=text]{
+.wufoo input.text{
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
 }
 
-ul{
+.wufoo ul{
   list-style: none;
 }
 
